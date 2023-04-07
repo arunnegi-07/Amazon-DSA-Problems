@@ -29,7 +29,9 @@ is the second largest.
 ```
 ```
 Your Task:
-The task is to complete the function largestAndSecondLargest(), which should return maximum and second maximum element from the array with first element as maximum element and second element as second maximum(if there is no second maximum the  second element should be -1)
+The task is to complete the function largestAndSecondLargest(), which should return maximum and second maximum element
+from the array with first element as maximum element and second element as second maximum(if there is no second maximum
+the  second element should be -1)
 ```
 ```
 Expected Time Complexity: O(N).

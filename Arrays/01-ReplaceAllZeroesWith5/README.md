@@ -26,7 +26,8 @@ Explanation: Since there are no zeroes in
 ```
 ```
 Your Task:
-Your task is to complete the function convertFive() which takes an integer N as an argument and replaces all zeros in the number N with 5. Your function should return the converted number.
+Your task is to complete the function convertFive() which takes an integer N as an argument and replaces all zeros in the number
+N with 5. Your function should return the converted number.
 ```
 ```
 Expected Time Complexity: O(K) where K is the number of digits in N

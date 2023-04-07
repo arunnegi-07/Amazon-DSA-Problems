@@ -24,8 +24,8 @@ Output: -1
 ```
 ```
 Your Task:
-Complete the function thirdLargest() which takes the array a[] and the size of the array, n, as input parameters and returns the third largest element 
-in the array. It return -1 if there are less than 3 elements in the given array.
+Complete the function thirdLargest() which takes the array a[] and the size of the array, n, as input parameters and returns 
+the third largest element in the array. It return -1 if there are less than 3 elements in the given array.
 ```
 ```
 Expected Time Complexity: O(N)
