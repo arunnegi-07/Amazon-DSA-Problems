@@ -1,38 +1,38 @@
-## Problem : Third Largest Element
+## Problem : Third Largest Element (Basic)
 
-Given an array of distinct elements. Find the third largest element in it.
+Given an array of distinct elements. Find the ```third largest``` element in it.<br>
 
-Suppose you have A[] = {1, 2, 3, 4, 5, 6, 7}, its output will be 5 because it is the 3 largest element in the array A.
+Suppose you have ```A[] = {1, 2, 3, 4, 5, 6, 7}```, its output will be 5 because it is the 3 largest element in the array A.
 
+**Example 1:**
 ```
-Example 1:
-
 Input:
 N = 5
 A[] = {2,4,1,3,5}
 
 Output: 3
 ```
-```
-Example 2:
 
+**Example 2:**
+```
 Input:
 N = 2
 A[] = {10,2}
 
 Output: -1
 ```
+
+**Your Task:**
 ```
-Your Task:
-Complete the function thirdLargest() which takes the array a[] and the size of the array, n, as input parameters and returns 
-the third largest element in the array. It return -1 if there are less than 3 elements in the given array.
+Complete the function thirdLargest() which takes the array a[] and the size of the array, n, as input parameters 
+and returns the third largest element in the array. It return -1 if there are less than 3 elements in the given array.
 ```
-```
-Expected Time Complexity: O(N)
-Expected Auxiliary Space: O(1)
-```
-```
-Constraints:
-1 ≤ N ≤ 10^5
-1 ≤ A[i] ≤ 10^5
-```
+
+**Expected Time Complexity:** ```O(N)```<br>
+**Expected Auxiliary Space:** ```O(1)```
+
+**Constraints:**
+<ul>
+<li><code>1 ≤ N ≤ 10<sup>5</sup></code></li>
+<li><code>1 ≤ A[i] ≤ 10<sup>5</sup></code></li>
+</ul>
