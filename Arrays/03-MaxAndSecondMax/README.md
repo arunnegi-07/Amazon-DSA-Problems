@@ -2,7 +2,7 @@
 
 Given an array ```arr[]``` of size ```N``` of positive integers which may have duplicates.<br>
 The task is to find the ```maximum``` and ```second maximum``` from the array, and both of them should be different from each<br>
-other, so **if no second max exists**, then the ```second max``` will be -1.
+other, so **if no** ```second max``` **exists**, then the ```second max``` will be -1.
 
 **Example 1:**
 ```
