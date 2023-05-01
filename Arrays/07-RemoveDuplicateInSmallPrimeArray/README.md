@@ -25,4 +25,4 @@ the returning array should be in the same order as they appear in the original a
 
 **Constraints:**
 <li><code>1 <= N <= 10<sup>6</sup></code></li>
-<li>2<=A[i] < 100</code></li>
+<li><code>2<=A[i] < 100</code></li>
