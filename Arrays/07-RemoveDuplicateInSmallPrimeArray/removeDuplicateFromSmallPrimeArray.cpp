@@ -1,7 +1,7 @@
-#include <iostream>
-#include <vector>
-#include <unordered_set>
+// Approach : Using Unordered Map
+// TC : O(N)  SC : O(1)
 
+#include <bits/stdc++.h>
 using namespace std;
 
 vector<int> removeDuplicate(vector<int>& arr, int n)
