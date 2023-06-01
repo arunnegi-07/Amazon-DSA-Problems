@@ -2,10 +2,13 @@
 Given a singly linked list of **N** nodes.<br>
 The task is to find the middle of the linked list.<br><br>
 
-For example, if the linked list is<br>
+**For example**, 
+if the linked list is<br>
 1-> 2->3->4->5, then the middle node of the list is 3.<br>
-If there are two middle nodes(in case, when N is even), print the second middle element.
-For example, if the linked list given is 1->2->3->4->5->6, then the middle node of the list is 4.
+If there are two middle nodes(in case, when N is even), print the second middle element.<br>
+
+**For example**,
+if the linked list given is 1->2->3->4->5->6, then the middle node of the list is 4.
 
 **Example 1:**
 ```
