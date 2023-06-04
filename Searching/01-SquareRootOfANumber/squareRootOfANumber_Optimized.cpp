@@ -1,3 +1,4 @@
+// Approach 2 : Using Binary Search (Optimized)
 // TC : O(logN)  SC : O(1)
 
 #include <iostream>
