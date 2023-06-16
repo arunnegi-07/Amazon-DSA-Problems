@@ -1,4 +1,4 @@
-// Approach 1 : Using Unordered Map
+// Approach 3 : Using Unordered Map
 // TC : O(N) --> because using unorderedMap  SC : O(N)
 
 #include <bits/stdc++.h>
