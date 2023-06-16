@@ -19,15 +19,19 @@
     element and the other is not.
 
     Majority Element Verification: 
-    After the first phase, the candidate will hold the potential majority element. To verify if it's indeed the majority element, iterate through the array again and count the occurrences of the candidate element. If the count is greater than n/2, where n is the length of the array, then the candidate is the majority element.
+    After the first phase, the candidate will hold the potential majority element. To verify if it's indeed the majority 
+    element, iterate through the array again and count the occurrences of the candidate element. If the count is greater
+    than n/2, where n is the length of the array, then the candidate is the majority element.
 
     Return the majority element if it exists; otherwise, indicate that there is no majority element.
 
-    The Moore's Majority Voting Algorithm is effective because the majority element, by definition, appears more than n/2 times. So even if other elements are competing for the majority, the majority element will eventually prevail during the voting process.
+    The Moore's Majority Voting Algorithm is effective because the majority element, by definition, appears more than n/2 times.
+    So even if other elements are competing for the majority, the majority element will eventually prevail during the voting process.
 
 
     Suppose we have an array: 
-    [2, 4, 5, 2, 2, 2, 6, 2, 9]. Our goal is to find the majority element, i.e., the element that appears more than n/2 times, where n is the length of the array.
+    [2, 4, 5, 2, 2, 2, 6, 2, 9]. Our goal is to find the majority element, i.e., the element that appears more than n/2 times,
+    where n is the length of the array.
 
     Step 1: Initialization
 
