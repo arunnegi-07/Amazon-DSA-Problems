@@ -1,4 +1,4 @@
-// Approach 1 : Using Sorting
+// Approach 2 : Using Sorting
 // TC : O(NlogN)  SC : O(1)
 
 #include <bits/stdc++.h>
